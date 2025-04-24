@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Operating Systems, Distributed Systems, Security**
 
-- ⚡ Fun fact **I speak English, French, Mandarin, and Italian :)**
+- ⚡ Fun fact **I speak English, French, and Mandarin :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
