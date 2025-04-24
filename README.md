@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Operating Systems, Distributed Systems, Security**
 
-- ⚡ Fun fact **I can count from 1 to 100 in Lithuanian :)**
+- ⚡ Fun fact: **I can count from 1 to 100 in Lithuanian :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
