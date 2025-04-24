@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Alisha Zhang 张心悦</h1>
-<h3 align="center">I'm from Shanghai, China and Cary, North Carolina</h3>
+<h3 align="center">I'm from Shanghai, China and Cary, North Carolina \n I speak English, French, Chinese, and Italian</h3>
 
 
 ## 🌐 Socials:
