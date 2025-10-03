@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Alisha Zhang</h1>
-<h3 align="center">Computer Science student @ Duke University | SWE intern @ Garmin</h3>
+<h3 align="center">Computer Science student @ Duke University</h3>
 
-- 🌱 I’m currently learning **Distributed Systems, Security, Forensics Anthropology**
+- 🌱 I’m currently learning **Distributed Systems, Security, Networks**
 
 - ⚡ Fun fact: **I can count from 1 to 19 in Lithuanian :)**
 
