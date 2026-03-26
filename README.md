@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Computer Science Student @ Duke University</h3>
 
 - 🌱 I’m currently learning **IoT, Compilers, SML-NJ**
-- 🔭 I’m currently working on **my first personal IoT project**
+- 🔭 I’m currently working on **a smart entry doorbell camera**
 - ⚡ Fun fact: **I can count in Lithuanian**
 
 <h3 align="left">Connect with me:</h3>
