@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Alisha Zhang</h1>
-<h3 align="center">Computer Science Student @ Duke University</h3>
+<h3 align="center"> GDPS SWE Intern @ IBM |  Computer Science @ Duke University</h3>
 
-- 🌱 I’m currently learning **IoT, Compilers, SML-NJ**
+- 🌱 I’m currently learning **IBM Z Mainframe, IBM Z GDPS, REXX**
 - 🔭 I’m currently working on **a smart entry doorbell camera**
-- ⚡ Fun fact: **I can count in Lithuanian**
+- ⚡ Fun fact: **A software engineer that doesn't watch musicals is not a good figure skater (jk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -99,7 +99,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="40" height="40"/>  
   </a>
   <a href="https://www.openstack.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_OpenStack_logo.svg/2048px-The_OpenStack_logo.svg.png" alt="OpenStack" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/OpenStack%C2%AE_Logo_2016.svg/1280px-OpenStack%C2%AE_Logo_2016.svg.png" alt="OpenStack" width="60" height="40"/>  
+  </a>
+  <a href="https://www.rexxla.org/rexxlang/index.srsp" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/12488708?v=4" alt="REXX" width="50" height="40"/>  
   </a>
 </p>
 
