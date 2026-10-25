@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alisha Zhang</h1>
 <h3 align="center"> GDPS SWE Intern @ IBM |  Computer Science @ Duke University</h3>
 
-- 🌱 I’m currently learning **IBM Z Mainframe, IBM Z GDPS, REXX**
+- 🌱 I’m currently learning **networks, formal verification**
 - 🔭 I’m currently working on **a smart entry doorbell camera**
 - ⚡ Fun fact: **A software engineer that doesn't watch musicals is not a good figure skater (jk)**
 
